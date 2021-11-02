@@ -1,0 +1,23 @@
+{
+  "name": "sha256-chain",
+  "version": "1.0.0",
+  "description": "Blockchain system using the sha-256 encryption method",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frederikblais/sha256-chain.git"
+  },
+  "author": "Frederik Blais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frederikblais/sha256-chain/issues"
+  },
+  "homepage": "https://github.com/frederikblais/sha256-chain#readme",
+  "devDependencies": {
+    "jest": "^27.3.1",
+    "nodemon": "^2.0.14"
+  }
+}
